@@ -1,4 +1,4 @@
-# Desafio DIO: Transfer Learning com VGG16
+# Transfer Learning com VGG16
 
 Este projeto demonstra e compara a eficácia de um modelo de classificação de imagens de cães e gatos treinado do zero contra um modelo pré-treinado, utilizando a arquitetura VGG16. O principal objetivo é evidenciar a superioridade e a eficiência do **Transfer Learning** no desenvolvimento de redes neurais.
 
