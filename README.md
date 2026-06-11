@@ -30,3 +30,6 @@ A performance de ambos os modelos foi analisada com base em métricas de `loss` 
 | `NumPy` | Biblioteca para computação numérica e manipulação de arrays. |
 | `Matplotlib` | Biblioteca para visualização de dados e criação de gráficos. |
 | `Google Colab` | Ambiente de desenvolvimento (Notebooks Jupyter) baseado em nuvem.
+
+## Uso de IA
+Este projeto contou com auxílio de ferramentas de Inteligência Artificial para geração de trechos de código e ideias de implementação. Todo o material foi revisado, adaptado e testado manualmente antes da publicação.
